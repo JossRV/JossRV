@@ -1,5 +1,6 @@
 ## Soy Jose Alberto, Ingeniero en Sistemas Computacionales
 ![](./gif/programación.gif)
+![](./gif/backend-development.gif)
 
 <!--
 **JossRV/JossRV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
