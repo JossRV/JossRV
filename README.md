@@ -1,4 +1,4 @@
-## Soy Jose Alberto, Ingeniero en Sistemas Computacionales
+<h1 align="center">Soy Jose Alberto, Ingeniero en Sistemas Computacionales</h1>
 ![](./gif/programación.gif)
 ![](./gif/backend-development.gif)
 
