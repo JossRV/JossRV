@@ -1,6 +1,6 @@
 <h3 align="center">Soy Jose Alberto, Ingeniero en Sistemas Computacionales</h1>
 
-![](./gif/setup.jpg)
+![](./gif/setup-1.jpg)
 
 
 ### Languajes and Tools
