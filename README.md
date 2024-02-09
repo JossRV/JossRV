@@ -1,8 +1,10 @@
-<h3 align="center">Hi!! 👋</h1>
+<h3 align="center">Hi!! 👋 I´m </h1>
 
 ![](./gif/setup-1.jpg)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<!--<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">-->
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
