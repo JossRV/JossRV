@@ -14,7 +14,7 @@
     Al mismo tiempo, me comprometo a adquirir nuevos conocimientos y perfeccionar mis habilidades en el desarrollo de aplicaciones web y móviles.
   </p>
 </div>
-# 
+<hr>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="290">
 <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">-->
