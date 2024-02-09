@@ -56,9 +56,16 @@
   <img align="center" width=32 src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css"/>
 </div>
 
-### Opertive Systems
+### Operative Systems
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width=32/>
   <img align="center" width="32" src="https://img.icons8.com/fluency/48/windows-10.png"/>
   <img align="center" width="32" src="https://img.icons8.com/color/48/debian.png"/>
 </div>
+<br>
+
+
+- 🎓 Titulado de Ingenieria en Sistemas Computacionales
+- 🖥️ Me encanta programar codigo y aprender.
+- 🌱 Actualmente estoy perfeccionando Laravel
+- 🔍 Busco colaborar en proyectos de desarrollo web front-end
