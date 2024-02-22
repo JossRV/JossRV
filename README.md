@@ -41,7 +41,6 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=32/>
   <img align="center" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width=32/>
   <img align="center" src="https://cdn.svgporn.com/logos/git-icon.svg" width=32/>
-  <img align="center" src="https://github.com/JossRV/JossRV/blob/main/gif/image.png" width=32/>
   <img align="center" width=32 src="https://img.icons8.com/fluency/48/maria-db.png" alt="maria-db"/>
   <img align="center" width=32 src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 </div>
