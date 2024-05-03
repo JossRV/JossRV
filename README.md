@@ -64,7 +64,7 @@
 <br>
 
 
-<!--- 🎓 Titulado de Ingenieria en Sistemas Computacionales.-->
+- 🎓 Titulado de Ingenieria en Sistemas Computacionales.
 - 🖥️ Me encanta programar codigo y aprender.
 - 🌱 Actualmente estoy perfeccionando Laravel.
 - 🔍 Busco colaborar en proyectos de desarrollo web.
